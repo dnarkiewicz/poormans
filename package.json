@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "colors": "0.6.2",
+    "dropbox": "^0.10.3",
     "marked": "^0.3.2",
     "vows": "0.7.0",
     "winston": "0.7.3"
